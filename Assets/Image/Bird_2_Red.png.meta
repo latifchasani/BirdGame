@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 4da10f7d510ff094d9f22dc50cdf8d8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1039343630574243952
+    second: Bird_2_Red_0
+  - first:
+      213: -6386642341645604421
+    second: Bird_2_Red_1
+  - first:
+      213: 916615623974830284
+    second: Bird_2_Red_2
+  - first:
+      213: 3341352413796018323
+    second: Bird_2_Red_3
+  - first:
+      213: 1768698994897109483
+    second: Bird_2_Red_4
+  - first:
+      213: 1650033816226616997
+    second: Bird_2_Red_5
+  - first:
+      213: 5826710441773289717
+    second: Bird_2_Red_6
+  - first:
+      213: -2369543036830683042
+    second: Bird_2_Red_7
+  - first:
+      213: 1080866202081705939
+    second: Bird_2_Red_8
+  - first:
+      213: 2320599636989852989
+    second: Bird_2_Red_9
+  - first:
+      213: -1372607024496646016
+    second: Bird_2_Red_10
+  - first:
+      213: 1149312491215360427
+    second: Bird_2_Red_11
+  - first:
+      213: 1915866438361327330
+    second: Bird_2_Red_12
+  - first:
+      213: -8641862286844654031
+    second: Bird_2_Red_13
+  - first:
+      213: 8889723247966138006
+    second: Bird_2_Red_14
+  - first:
+      213: 732012809709541970
+    second: Bird_2_Red_15
+  - first:
+      213: -3834997615402714681
+    second: Bird_2_Red_16
+  - first:
+      213: 5259419883312275762
+    second: Bird_2_Red_17
+  - first:
+      213: 5603185657181823514
+    second: Bird_2_Red_18
+  - first:
+      213: 9061227660166993362
+    second: Bird_2_Red_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_2_Red_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1989
+        width: 521
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07051fb768d7c6e00800000000000000
+      internalID: 1039343630574243952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_1
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1993
+        width: 524
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9aebec0a61e57a0800000000000000
+      internalID: -6386642341645604421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_2
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2003
+        width: 531
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c796bd0978bc00800000000000000
+      internalID: 916615623974830284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_3
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2013
+        width: 537
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a4bd215ede5e20800000000000000
+      internalID: 3341352413796018323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_4
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2011
+        width: 540
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ce696d5eab8810800000000000000
+      internalID: 1768698994897109483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1388
+        width: 538
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d19b730916e610800000000000000
+      internalID: 1650033816226616997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1382
+        width: 535
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d4fa8642acd050800000000000000
+      internalID: 5826710441773289717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_7
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1372
+        width: 528
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50f4b19921bd1fd0800000000000000
+      internalID: -2369543036830683042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_8
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1366
+        width: 522
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3ec88512000f00800000000000000
+      internalID: 1080866202081705939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_9
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1364
+        width: 521
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3ea4231d643020800000000000000
+      internalID: 2320599636989852989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 739
+        width: 523
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088eba00f2583fce0800000000000000
+      internalID: -1372607024496646016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_11
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 745
+        width: 528
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19fc61f9d23ff00800000000000000
+      internalID: 1149312491215360427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_12
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 755
+        width: 535
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ae9fff56869a10800000000000000
+      internalID: 1915866438361327330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_13
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 761
+        width: 537
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e87c26900f11880800000000000000
+      internalID: -8641862286844654031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_14
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 759
+        width: 540
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ead8ab134ae5b70800000000000000
+      internalID: 8889723247966138006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 538
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad5c5a5c1a82a00800000000000000
+      internalID: 732012809709541970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 130
+        width: 535
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9737bccf957cac0800000000000000
+      internalID: -3834997615402714681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_17
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 120
+        width: 528
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231647da4863df840800000000000000
+      internalID: 5259419883312275762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_18
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 114
+        width: 522
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e2e21ba382cd40800000000000000
+      internalID: 5603185657181823514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_2_Red_19
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 112
+        width: 521
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d592396c82ffbd70800000000000000
+      internalID: 9061227660166993362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bird_2_Red_13: -8641862286844654031
+      Bird_2_Red_15: 732012809709541970
+      Bird_2_Red_16: -3834997615402714681
+      Bird_2_Red_12: 1915866438361327330
+      Bird_2_Red_0: 1039343630574243952
+      Bird_2_Red_3: 3341352413796018323
+      Bird_2_Red_11: 1149312491215360427
+      Bird_2_Red_2: 916615623974830284
+      Bird_2_Red_10: -1372607024496646016
+      Bird_2_Red_18: 5603185657181823514
+      Bird_2_Red_9: 2320599636989852989
+      Bird_2_Red_8: 1080866202081705939
+      Bird_2_Red_5: 1650033816226616997
+      Bird_2_Red_7: -2369543036830683042
+      Bird_2_Red_19: 9061227660166993362
+      Bird_2_Red_1: -6386642341645604421
+      Bird_2_Red_6: 5826710441773289717
+      Bird_2_Red_14: 8889723247966138006
+      Bird_2_Red_17: 5259419883312275762
+      Bird_2_Red_4: 1768698994897109483
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

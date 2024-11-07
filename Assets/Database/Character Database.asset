@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eae60bef219e1943a57d7b977ae1a44, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: BLUE
+    characterSprite: {fileID: -264668129248266846, guid: 0eb119ab3b310344f95b0f06dfea0554,
+      type: 3}
+    coin: 99999999
+    selected: 0
+    buy: 1
+  - characterName: RED
+    characterSprite: {fileID: -6386642341645604421, guid: 4da10f7d510ff094d9f22dc50cdf8d8e,
+      type: 3}
+    coin: 2
+    selected: 1
+    buy: 1
+  - characterName: GREEN
+    characterSprite: {fileID: 18181697298881382, guid: ed3580ac3af5c9a4eaafd577edcc689c,
+      type: 3}
+    coin: 5
+    selected: 0
+    buy: 0
